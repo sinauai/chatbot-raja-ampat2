@@ -239,7 +239,7 @@ function ChatFormContent({ className, ...props }: React.ComponentProps<"form">) 
     <header className="m-auto flex max-w-96 flex-col gap-5 text-center py-8">
       <h1 className="text-2xl font-semibold leading-none tracking-tight">Halo, Sahabat Kompas</h1>
       <p className="text-muted-foreground text-sm">
-        Silakan ajukan pertanyaan terkait artikel yang Anda baca. Jawaban dibuat berdasarkan berita di Kompas.id.
+        Silakan ajukan pertanyaan terkait masalah tambang di Raja Ampat. Jawaban dibuat berdasarkan berita di Kompas.id.
       </p>
     </header>
   )
